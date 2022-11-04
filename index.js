@@ -9,7 +9,8 @@ const youtube = document.getElementById('youtube')
 const twitter = document.getElementById('twitter')
 const twitch = document.getElementById('twitch')
 const telegram = document.getElementById('telegram')
-
+const copagol = document.getElementById('img-copagol')
+const izzi = document.getElementById('img-izzi')
 
 insta.addEventListener('click', () =>{
     window.open('https://www.instagram.com/digoneez/')
@@ -55,6 +56,13 @@ megapari.addEventListener('click', ()=>{
     window.open("https://refpaiozdg.top/L?tag=d_1848361m_25437c_&site=1848361&ad=25437&r=registration/")
 })
 
+copagol.addEventListener('click', ()=>{
+    window.open("https://lp.copagolbet.com/new_football/digoneez/")
+})
+
+izzi.addEventListener('click', ()=>{
+    window.open("https://izzicasino.life/c72e03052")
+})
 
 function videos() {
     window.open('https://www.youtube.com/channel/UCtJlNiG4jUxrvWI73mbsm8g')

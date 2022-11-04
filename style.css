@@ -256,7 +256,7 @@ a:hover{
     max-width: 100%;
 }
 
-#betbrx, #fresh, #betwinner, #megapari, #biamo{
+#betbrx, #fresh, #betwinner, #megapari, #biamo, #copagol, #izzi{
     border: 0.2em solid white;
     display: flex;
     flex-direction: column;
@@ -269,7 +269,7 @@ a:hover{
 }
 
 
-#betbrx, #fresh, #betwinner, #megapari, #biamo p{
+#betbrx, #fresh, #betwinner, #megapari, #biamo, #copagol p{
     text-align: center;
 }
 
