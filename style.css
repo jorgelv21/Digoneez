@@ -147,7 +147,7 @@ a:hover{
 }
 
 .navbar-menu {
-    height: 8em;
+    height: 15%;
     width: 100%;
     position: fixed;
     top: 0;
@@ -161,6 +161,7 @@ a:hover{
 }
 
 .ini-container{
+    padding-top: 4em;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -278,7 +279,7 @@ a:hover{
 }
 
 #videos{
-    height: 120vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -301,11 +302,13 @@ a:hover{
     height: auto;
     margin: 1.5em auto;
     position: relative;
+    
 }
 
 iframe{
     border: 0.2em solid #fff;
     border-radius: 1em;
+    
 }
 
 #btn-vid{
